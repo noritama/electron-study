@@ -1,0 +1,6 @@
+.serve
+dist
+release
+node_modules
+bower_components
+*.log
